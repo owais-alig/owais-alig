@@ -1,4 +1,4 @@
-# Hi, I'm Owais Ahmad 👋
+# Hi, I'm Owais Ahmad 
 
 Data Analyst & Applied Economist based in Bengaluru, India.
 
