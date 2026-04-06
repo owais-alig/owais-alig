@@ -10,12 +10,12 @@ into decisions that actually make sense.
 
 - **Languages:** R, Python, Stata, SPSS, BlueSky Statistics, and Excel (Not and expert but can deliver a lot of work..)
 - **Analytics:** EDA, Data Cleaning, Feature Engineering, Visualization and of course relevant statistical modeling
-- **Statistics:** Econometrics, Time Series (ARIMA, VAR, VECM), Regression, Hypothesis Testing
+- **Statistics:** Econometrics, Time Series (ARIMA, VAR, VECM), Regression, Hypothesis Testing, Machine Learning, GenAI
 
 ## 📚 Background
 
-- Master's in Financial Economics — University of Hyderabad
-- Bachelor's in Statistics — Aligarh Muslim University
+- Master's in Financial Economics - University of Hyderabad
+- Bachelor's in Statistics - Aligarh Muslim University
 - UGC NET qualified (Economics, 2024)
 
 ## 📫 Reach me
