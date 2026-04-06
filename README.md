@@ -2,7 +2,7 @@
 
 Data Analyst & Applied Economist based in Bengaluru, India.
 
-I work at the intersection of economics, statistics, and data —
+I work at the intersection of economics, statistics, and data -
 building models, cleaning messy datasets, and turning numbers
 into decisions that actually make sense.
 
